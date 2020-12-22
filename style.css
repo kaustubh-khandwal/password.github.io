@@ -1,0 +1,20 @@
+.material-icons {
+    position: relative;
+    color: red;
+    cursor: pointer;
+    top: 200px;
+    right: 100px;
+}
+
+#hide {
+    display: none;
+}
+
+body {
+    text-align: center;
+}
+
+#ip {
+    top: 1000px;
+    right: 100px;
+}
